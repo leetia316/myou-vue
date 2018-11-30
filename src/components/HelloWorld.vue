@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '我是MYOU-VUE项目，尽情期待。做一条有梦想的咸鱼！！！'
+      msg: '我是MYOU-VUE项目，尽情期待。做一条有梦想的咸鱼，加油吧，骚年！！！'
     }
   }
 }
